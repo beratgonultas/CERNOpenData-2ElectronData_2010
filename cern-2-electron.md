@@ -1918,15 +1918,7 @@ plt.title("Scatter plot of pz1 and pz2");
 Yes, there is a relation between pz1 and pz2. As you can see above, when pz1 and pz2 have same sign, their values spread over an area; but when they have opposite sign, they concentrate about the origin.
 
 
-```python
-jovian.commit()
-```
 
 
     <IPython.core.display.Javascript object>
 
-
-
-```python
-
-```
