@@ -1488,7 +1488,7 @@ axes[1,1].set_title("The phi angle of the electron 2 vs Total energy of electron
     
 
 
-Above we have 4 plots. The first row is associated with electron 1 while the second row is associated with electron 2. The plots at the left show the relation between the energy and the pseudorapidity. The plots at the right show the relation between the energy and the phi angle. We see that energy is higher at higher pseudorapidity values. (Minus 2 is high in this sense. Because the minus sign just refers to the other side of the detector. 0 is the smallest value for pseudorapidity.) This is expected because high energy particles are the ones that have high pseudorapidity values. On the other hand, we have a uniform distribution for phi dependence. This is also expected because the 
+Above we have 4 plots. The first row is associated with electron 1 while the second row is associated with electron 2. The plots at the left show the relation between the energy and the pseudorapidity. The plots at the right show the relation between the energy and the phi angle. We see that energy is higher at higher pseudorapidity values. (Minus 2 is high in this sense. Because the minus sign just refers to the other side of the detector. 0 is the smallest value for pseudorapidity.) This is expected because high energy particles are the ones that have high pseudorapidity values. On the other hand, we have a uniform distribution for phi dependence. This is also expected because the events are symmetric for phi angle.
 
 **Scatter plot of pseudorapidity of electron 1 and z component of the momentum of electron 1**
 
